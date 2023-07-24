@@ -19,7 +19,7 @@ The application provides an intuitive user interface for tracking the location o
 
 ### Screenshot
 
-![](./public/IP-Tracker-Screenshot.png)
+![](./public/IP-Tracker.png)
 
 ### Demo
 
