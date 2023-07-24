@@ -38,7 +38,7 @@ The application provides an intuitive user interface for tracking the location o
 
 Users can:
 
-- See their own IP address on the map on the initial page load
+
 - Search for any IP addresses or domains and see key information and location
 - View the optimal layout for each page depending on their device's screen size
 - Experience interactive elements with distinct hover states
