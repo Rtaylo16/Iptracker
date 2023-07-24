@@ -1,0 +1,68 @@
+.leaflet-container{
+  width: 100%;
+  height:100%;
+  position: relative;
+  bottom:150px;
+  z-index:1
+}
+
+.header{
+  height:35vh;
+  background-image: url("../images/pattern-bg.png");
+  background-size:cover;
+  position: relative;
+  background-position: top;
+}
+
+.title{
+  color:white;
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  max-width: 600px;
+
+
+}
+
+.input{
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  max-width: 600px;
+  padding:0;
+  bottom: 150px;
+  position: relative;
+}
+
+.mapDiv{
+  padding-top: 0;
+  height:100vh;
+}
+
+.display-dashboard{
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  max-width: 900px;
+  padding:0;
+  bottom: 140px;
+  position: relative;
+  height:100px;
+  z-index:2;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dividers{
+  height:20px
+}
+
+.title2{
+  position: relative;
+  bottom:20px;
+}
